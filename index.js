@@ -6,8 +6,8 @@ return(a += b);
 add(1,1);
 
 function subtract(a,b){
-  return(b -= a);
+  return(a -= b);
 
 }
 
-subtract(3,5);
+subtract(9,5);
