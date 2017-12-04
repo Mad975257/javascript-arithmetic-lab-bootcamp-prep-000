@@ -1,10 +1,6 @@
-var number = 5;
-
-
-function add(N){
-number += N;
-console.log(number)
-
+function add(a,b){
+return(a += b);
+  
 }
 
-add(2);
+add(1,1);
